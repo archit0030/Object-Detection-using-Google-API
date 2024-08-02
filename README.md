@@ -31,6 +31,5 @@ This repository contains a Python script that uses the Gemini API to generate bo
 1. Prompt: Return a bounding box for the mop basket
 2. Output:
 
-//
-//
- ![Result1](https://github.com/user-attachments/assets/61510fde-1e74-418d-9180-020db8400230)
+
+      ![Result1](https://github.com/user-attachments/assets/61510fde-1e74-418d-9180-020db8400230)
