@@ -18,7 +18,7 @@ This repository contains a Python script that uses the Gemini API to generate bo
    
 2. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/bounding-box-detection.git
+    git clone https://github.com/archit0030/Object-Detection-using-Google-API.git
     cd bounding-box-detection
 
 3. **Configure the Gemini API:**
