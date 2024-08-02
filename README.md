@@ -23,4 +23,14 @@ This repository contains a Python script that uses the Gemini API to generate bo
 
 3. **Configure the Gemini API:**
 
+
     Replace YOUR_API_KEY in the code with your actual Gemini API key.
+   
+***Result***
+
+1. Prompt: Return a bounding box for the mop basket
+2. Output:
+
+//
+//
+ ![Result1](https://github.com/user-attachments/assets/61510fde-1e74-418d-9180-020db8400230)
